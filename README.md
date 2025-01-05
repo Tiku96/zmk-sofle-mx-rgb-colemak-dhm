@@ -1,8 +1,7 @@
-# zmk-config
+# Sofle Wirless Coleman DHm
 
-- **KB:** [Sofle](https://github.com/josefadamcik/SofleKeyboard) ([build guide](https://josefadamcik.github.io/SofleKeyboard/build_guide.html))
-- **Chip:** [nice!nano](https://nicekeyboards.com/nice-nano/)
+- **KIT:** [Sofle kit 3 wirless](https://it.aliexpress.com/item/1005007205001435.html) ([build guide](https://pandakb.com/build-guides/sofle-rgb-mx-build-guide/))
 - **Firmware:** [ZMK](https://zmkfirmware.dev)
 
 
-![Sofle wireless](https://user-images.githubusercontent.com/6678/121045565-b1baa180-c7ad-11eb-9008-2e3e67df22d4.jpeg)
+![Sofle wireless](images/keyboard.jpeg)
